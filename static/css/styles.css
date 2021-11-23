@@ -1,0 +1,20 @@
+.container{
+    display: block;
+    margin-left: 20%;
+} 
+
+.container span {
+    display: block;
+    padding-left: 20px;
+}
+
+.container input {
+    float: left;
+    margin-left: -20px;
+    margin-top: 6px; /* vertically align radio button with text */
+    padding: 0;
+}
+
+span button{
+    margin-top: 12px;
+}
